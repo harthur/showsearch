@@ -2,7 +2,12 @@
     "id": "jid0-IFVdsigUqaUCkreKEqZKDG2j7Ok", 
     "dependencies": [
         "jetpack-core"
-    ], 
-    "description": "Match on search term in the awesomebar", 
-    "author": "Heather Arthur (fayearthur@gmail.com)"
+    ],
+    "fullname" : "Show Search Terms in Awesomebar",
+    "description": "Match on search term in the awesomebar",
+    "version" : "0.1", 
+    "author": "Heather Arthur (fayearthur@gmail.com)",
+    "targetApplications": [
+         { "name": "firefox", "min": "3.0", "max": "3.7.*" }
+    ]
 }
