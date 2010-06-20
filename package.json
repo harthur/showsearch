@@ -1,0 +1,8 @@
+{
+    "id": "jid0-IFVdsigUqaUCkreKEqZKDG2j7Ok", 
+    "dependencies": [
+        "jetpack-core"
+    ], 
+    "description": "Match on search term in the awesomebar", 
+    "author": "Heather Arthur (fayearthur@gmail.com)"
+}
